@@ -21,7 +21,7 @@ Script de instalação automática para o ambiente de desenvolvimento Salesforce
 Abra o **Terminal** (`Cmd + Espaço` → digite "Terminal") e execute:
 
 ```bash
-/bin/bash -c "$(curl -fsSL https://github.com/ViniciusLopes05/prework-workshopGit/v1.0/setup.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/ViniciusLopes05/prework-workshopGit/v1.0/setup.sh)"
 ```
 
 ### Opção 2: Download manual
